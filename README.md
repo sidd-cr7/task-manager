@@ -6,7 +6,7 @@ This project was created as part of a frontend screening task.
 
 ---
 
-## ✨ Features
+##  Features
 
 - Add new tasks with basic validation (title required)
 - Mark tasks as completed or undo completion

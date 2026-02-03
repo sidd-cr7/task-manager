@@ -41,3 +41,18 @@ Clone the repository and run the project locally:
 ```bash
 npm install
 npm run dev
+
+
+## Data Source
+
+Tasks are stored and managed using local React component state.  
+No external API, backend service, or database is used, as the goal of this project is to demonstrate frontend state handling, UI clarity, and user interactions.
+
+---
+
+## Assumptions
+
+- The application is intended for single-user usage
+- No authentication or user accounts are required
+- Task data is not persisted and will reset on page refresh
+- The focus of the assignment is frontend logic and UI/UX rather than backend integration

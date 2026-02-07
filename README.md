@@ -8,7 +8,7 @@ This project was created as part of a frontend screening task.
 
 ##  Features
 
-- Add new tasks with basic validation (title required)
+- Add new tasks with basic validation with title
 - Mark tasks as completed or undo completion
 - Delete tasks
 - Empty state handling when no tasks are present
@@ -22,7 +22,7 @@ This project was created as part of a frontend screening task.
 - **React** (Vite)
 - **JavaScript**
 - **CSS**
-- **OGL** (for the DarkVeil background effect)
+- **OGL** for the background
 
 ---
 

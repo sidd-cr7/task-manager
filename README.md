@@ -1,6 +1,6 @@
 # Task Manager
 
-A clean and minimal task management application built with **React**, focused on simple UX, clear state handling, and a modern UI.
+A clean and minimal task management application built with React, focused on simple UX, clear state handling, and a modern UI.
 
 This project was created as part of a frontend screening task.
 
@@ -30,7 +30,7 @@ This project was created as part of a frontend screening task.
 
 - Tasks are stored in local React state
 - No backend or database is used
-- Focus is on frontend state management and UI behavior
+- Focus is on frontend state management and UI behaviour
 
 ---
 

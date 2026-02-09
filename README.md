@@ -1,14 +1,12 @@
-# Task Manager
+Task Manager
 
 A clean and minimal task management application built with React, focused on simple UX, clear state handling, and a modern UI.
 
 This project was created as part of a frontend screening task.
 
----
+ Features:
 
-##  Features
-
-- Add new tasks with basic validation with title
+- Add new tasks with basic validation with a title
 - Mark tasks as completed or undo completion
 - Delete tasks
 - Empty state handling when no tasks are present
@@ -17,7 +15,7 @@ This project was created as part of a frontend screening task.
 
 ---
 
-## Tech Stack
+Tech Stack
 
 - **React** (Vite)
 - **JavaScript**
@@ -26,7 +24,7 @@ This project was created as part of a frontend screening task.
 
 ---
 
-## Data Handling
+Data Handling
 
 - Tasks are stored in local React state
 - No backend or database is used
@@ -34,7 +32,7 @@ This project was created as part of a frontend screening task.
 
 ---
 
-##  Getting Started
+Getting Started
 
 Clone the repository and run the project locally:
 

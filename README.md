@@ -17,10 +17,10 @@ This project was created as part of a frontend screening task.
 
 Tech Stack
 
-- **React** (Vite)
-- **JavaScript**
-- **CSS**
-- **OGL** for the background
+- React (Vite)
+- JavaScript
+- CSS
+- OGL for the background
 
 ---
 

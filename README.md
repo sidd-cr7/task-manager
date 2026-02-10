@@ -48,7 +48,7 @@ No external API, backend service, or database is used, as the goal of this proje
 
 ---
 
-## Assumptions
+Assumptions
 
 - The application is intended for single-user usage
 - No authentication or user accounts are required

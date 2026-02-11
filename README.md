@@ -6,7 +6,7 @@ This project was created as part of a frontend screening task.
 
  Features:
 
-- Add new tasks with basic validation with a title
+- Add new tasks with basic validation, with a title
 - Mark tasks as completed or undo completion
 - Delete tasks
 - Empty state handling when no tasks are present

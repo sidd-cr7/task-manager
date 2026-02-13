@@ -41,7 +41,7 @@ npm install
 npm run dev
 
 
- Data Source
+Data Source
 
 Tasks are stored and managed using local React component state.  
 No external APIs, backend services, or databases are used, as the goal of this project is to demonstrate frontend state management, UI clarity, and user interactions.

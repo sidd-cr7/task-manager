@@ -40,6 +40,7 @@ Clone the repository and run the project locally:
 npm install
 npm run dev
 
+---
 
 Data Source
 

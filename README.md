@@ -2,6 +2,8 @@
 
 A clean, minimal task management application built with React, focused on simple UX, clear state management, and a modern UI.
 
+---
+
 This project was created as part of a frontend screening task.
 
  Features:

@@ -34,8 +34,6 @@ Data Handling
 
 ---
 
-Getting Started
-
 Clone the repository and run the project locally:
 
 ```bash

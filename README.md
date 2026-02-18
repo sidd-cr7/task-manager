@@ -1,6 +1,6 @@
 **Task Manager**
 
-A clean, minimal task management application built with React, focused on simple UX, clear state management, and a modern UI.
+A clean, minimal task management application built with React, focused on simple UX, clear state management.
 
 ---
 

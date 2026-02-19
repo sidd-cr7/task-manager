@@ -13,7 +13,7 @@ This project was created as part of a frontend screening task.
 - Delete tasks
 - Empty state handling when no tasks are present
 - Clean, responsive UI with a modern glassmorphism card
-- Animated DarkVeil background for visual polish
+- Animated DarkVeil background for visual polish. 
 
 ---
 

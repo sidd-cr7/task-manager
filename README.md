@@ -4,6 +4,8 @@ A clean, minimal task management application built with React, focused on simple
 
 This project was created as part of a frontend screening task.
 
+---
+
  Features:
 
 - Add new tasks with basic validation, with a title

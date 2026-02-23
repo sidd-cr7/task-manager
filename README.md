@@ -17,7 +17,7 @@ This project was created as part of a frontend screening task.
 
 ---
 
-Tech Stack
+# Tech Stack
 
 - React (Vite)
 - JavaScript

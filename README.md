@@ -54,4 +54,4 @@ No external APIs, backend services, or databases are used, as the goal of this p
 - The application is intended for single-user usage
 - No authentication or user accounts are required
 - Task data is not persisted and will reset on page refresh
-- The focus of the assignment is frontend logic and UI/UX rather than backend integration. 
+- The focus of the assignment is frontend logic and UI/UX rather than backend integration
